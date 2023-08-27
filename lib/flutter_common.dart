@@ -1,5 +1,7 @@
 library flutter_common;
 
+export 'theme/res/ColorsKey.dart';
+export 'theme/res/ColorsRes.dart';
 export 'core/AppManager.dart';
 export 'utils/DisplayUtils.dart';
 export 'theme/ThemeProvider.dart';
