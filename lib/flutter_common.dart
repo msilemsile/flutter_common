@@ -1,5 +1,6 @@
 library flutter_common;
 
+export 'core/AppManager.dart';
 export 'utils/DisplayUtils.dart';
 export 'theme/ThemeProvider.dart';
 export 'theme/res/DecorationRes.dart';
